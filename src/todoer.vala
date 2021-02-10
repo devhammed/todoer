@@ -1,4 +1,5 @@
 public class Todoer : Object {
+
     private enum Columns {
         TOGGLE,
         TEXT,
