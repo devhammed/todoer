@@ -29,8 +29,8 @@ Author: Hammed Oyedele
 <interface>
   <requires lib="gtk+" version="3.20" />
   <!-- interface-license-type mit -->
-  <!-- interface-name Hello -->
-  <!-- interface-description Hello App -->
+  <!-- interface-name Todoer -->
+  <!-- interface-description Painless Todos Management Software! -->
   <!-- interface-copyright Hammed Oyedele -->
   <!-- interface-authors Hammed Oyedele -->
   <object class="GtkListStore" id="todos_store">
